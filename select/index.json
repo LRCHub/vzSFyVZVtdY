@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "base_track": "モノトーン",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-04-03T08:05:58.355394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_モノトーン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_モノトーン_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_モノトーン_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_モノトーン_YOASOBI.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_01_モノトーン_YOASOBI.lrc",
+      "repo_name": "bWmBf__1wv8"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_02_モノトーン_YOASOBI.lrc",
+      "repo_name": "sJ-2X3rHtXw"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "モノトーン",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_03_モノトーン_YOASOBI.lrc",
+      "repo_name": "ZdfbPa_Cf9c"
+    }
+  ]
+}
